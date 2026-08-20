@@ -203,5 +203,14 @@
       "Great work comparing commits in git history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787208993.018764,
+    "completed_at": 1787208994.769068,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
